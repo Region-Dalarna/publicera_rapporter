@@ -17,3 +17,8 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<script>
+  window.location.href = "https://www.regiondalarna.se/verksamhet/regional-utveckling/statistik-och-rapporter/";
+</script>
+
+You are being redirected...
