@@ -8,6 +8,10 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
+```{r, results='asis', echo=FALSE}
+cat('<meta http-equiv="refresh" content="2;url=https://www.regiondalarna.se/verksamhet/regional-utveckling/statistik-och-rapporter/">')
+```
 <br>
 <br>
 <br>
