@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r, results='asis', echo=FALSE}
-cat('<meta http-equiv="refresh" content="4;url=https://www.regiondalarna.se/verksamhet/regional-utveckling/statistik-och-rapporter/">')
+cat('<meta http-equiv="refresh" content="3;url=https://www.regiondalarna.se/verksamhet/regional-utveckling/statistik-och-rapporter/">')
 ```
 <br>
 <br>
@@ -21,4 +21,4 @@ cat('<meta http-equiv="refresh" content="4;url=https://www.regiondalarna.se/verk
 <br>
 <br>
 <br>
-Du flyttas till https://www.regiondalarna.se/verksamhet/regional-utveckling/statistik-och-rapporter/
+<font size="4">Du flyttas till  https://www.regiondalarna.se/verksamhet/regional-utveckling/statistik-och-rapporter/</font>
