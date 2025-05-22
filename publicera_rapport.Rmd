@@ -1,24 +1,20 @@
 ---
-title: "Region Dalarnas rapporter"
+title: ""
 author: ""
 date: ""
-output: 
-  html_document:
-    includes:
-      in_header: hero_image.html
-    toc: no
-    toc_float: no
-    toc_depth: 6
-    css: "styles_hero.css"
-    number_sections: true
+output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
-<script>
-  window.location.href = "https://www.regiondalarna.se/verksamhet/regional-utveckling/statistik-och-rapporter/";
-</script>
-
-You are being redirected...
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Du flyttas till https://www.regiondalarna.se/verksamhet/regional-utveckling/statistik-och-rapporter/
